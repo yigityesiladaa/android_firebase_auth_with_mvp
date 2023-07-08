@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FirebaseAuthTutorial</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_username">Enter Your Username</string>
+    <string name="enter_your_pass">Enter Your Password</string>
+    <string name="re_enter_your_pass">Re-enter Your Password</string>
+    <string name="sign_up_text">Sign Up</string>
+    <string name="sign_in_text">Sign In</string>
+    <string name="sign_out_text">Sign Out</string>
+    <string name="not_registered_yet_text">Not Registered Yet?</string>
+    <string name="already_registered_text">Already Registered?</string>
+    <string name="forgot_password_text">Forgot Password</string>
+    <string name="forgot_password_screen_text">
+        Enter your e-mail address we will send you to reset your password
+    </string>
+    <string name="submit_text">Submit</string>
+</resources>
